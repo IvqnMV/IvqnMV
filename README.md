@@ -13,6 +13,6 @@ I am a cybersecurity enthusiast with a solid foundation in networking and routin
 * **Programming & Web:** Python, SQL, HTML, and CSS. 
 * **Systems:** Windows and Linux environments.
   
-## I make my own luck.
+### I make my own luck.
 ---
 *"Security is not a product, but a process."*
