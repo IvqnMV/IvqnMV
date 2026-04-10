@@ -1,5 +1,7 @@
 # Hi there! I'm IvqnMV👋
 
+# I make my own luck.
+
 ### 🛡️ Cybersecurity Engineer | RED TEAM | SOC | FUTURE CISO
 
 I am a cybersecurity enthusiast with a solid foundation in networking and routing. My current focus lies at the intersection of information security and Artificial Intelligence, ensuring that emerging technologies are robust, private, and secure.
