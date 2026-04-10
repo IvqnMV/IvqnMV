@@ -1,6 +1,4 @@
-# Hi there! I'm IvqnMV👋
-
-## I make my own luck.
+# Hi there! I'm IvqnMV👋 ## I make my own luck.
 
 ### 🛡️ Cybersecurity Engineer | RED TEAM | SOC | FUTURE CISO
 
